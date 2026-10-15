@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Pratik Raskar — AI systems and developer tools</title>
+<desc id="desc">A charcoal and ivory banner with a gold branching circuit motif.</desc>
+<rect width="1200" height="340" rx="20" fill="#171C22"/>
+<path d="M0 288H1200 M0 290H1200" stroke="#2A333C"/>
+<rect x="48" y="47" width="28" height="4" rx="2" fill="#D6BC83"/>
+<text x="90" y="56" fill="#D6BC83" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">AI SYSTEMS / DEVELOPER TOOLS</text>
+<text x="46" y="151" fill="#F4F1E8" font-family="Arial, sans-serif" font-size="73" font-weight="700" letter-spacing="-2">Pratik Raskar</text>
+<text x="49" y="202" fill="#C2C8CD" font-family="Arial, sans-serif" font-size="25">Building AI tools you can inspect, test, and use.</text>
+<text x="49" y="255" fill="#87949E" font-family="Arial, sans-serif" font-size="17">Python backends · ML evaluation · Open source</text>
+<text x="49" y="319" fill="#D6BC83" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">RASKAR-PRATIK</text>
+<text x="1150" y="319" text-anchor="end" fill="#87949E" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">BUILD / MEASURE / VERIFY</text>
+<g fill="none" stroke="#35424B" stroke-width="2">
+<path d="M894 66H1092V240H894Z"/><path d="M866 99H1120V206H866Z"/>
+<path d="M993 45V261 M850 153H1137"/>
+</g>
+<g fill="none" stroke="#D6BC83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M894 217L941 170V110L993 75L1045 110V170L1092 217"/>
+<path d="M894 89L941 136L993 170L1045 136L1092 89"/>
+<path d="M993 170V233"/>
+</g>
+<g fill="#171C22" stroke="#D6BC83" stroke-width="3">
+<circle cx="894" cy="217" r="7"/><circle cx="1092" cy="217" r="7"/>
+<circle cx="894" cy="89" r="7"/><circle cx="1092" cy="89" r="7"/>
+<circle cx="993" cy="75" r="7"/><circle cx="993" cy="233" r="7"/>
+</g>
+<circle cx="993" cy="170" r="9" fill="#D6BC83"/>
+</svg>
